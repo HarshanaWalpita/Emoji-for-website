@@ -1,3 +1,3 @@
 # Emoji-for-website
 
-Created using emojionearea library and Jquery livrary. 
+Created using emojionearea library and Jquery library. 
